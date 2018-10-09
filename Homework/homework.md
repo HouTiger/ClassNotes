@@ -7,8 +7,8 @@
 * 作业二
   * [ ] 树状数组
     * [x] apple tree
-    * [ ] mobile phone
-    DDL：10.15 08:00
+    * [ ] mobile phone  
+    * DDL：10.15 08:00
 
 ## 信号与系统
 * [x] 作业一
