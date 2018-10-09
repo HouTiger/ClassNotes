@@ -1,7 +1,7 @@
 # 歌剧的魅力 第二讲
 ### 蒋一民 2018.10.08  
 > 人欣赏歌剧的能力来自于对数学的天然感知——by 笛卡儿  
-故我们走 **“操千曲而后晓声，观千剑而后识器”** 的路子
+故我们走 **“操千曲而后晓声，观千剑而后识器”** 的路子
 
 ## 考试
 * 最后两次课
@@ -15,7 +15,7 @@
     * *Alphonsine Plessis* (true name)  
         猎头说*Plessis*太土了，改个洋气的
     * *Marie Duplessis*   
-        叫*Marie*，加个*Du*，好听～  
+        叫*Marie*，加个*Du*，好听～  
         *Courtesan* 交际花  
     * *Marguerite Gautier* 小说中名字  
     * *Violetta Valery* 歌剧中名字  
