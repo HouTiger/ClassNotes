@@ -5,9 +5,9 @@
   * [x] 并查集
   * DDL:10.15
 * 作业二
-  * [ ] 树状数组
+  * [x] 树状数组
     * [x] apple tree
-    * [ ] mobile phone  
+    * [x] mobile phone  
     * [x] 不好做的最长上升序列
     * DDL:10.15 08:00
 
