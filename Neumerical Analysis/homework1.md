@@ -1,6 +1,6 @@
 # Homework1
 #### 侯太格 1600012897
-## 1. 
+## 1. 
 * Let {$p_n$} be the sequence defined by $p_n = \sum_{k = 1}^n {\frac{1}{k}}$. Show that {$p_n$} diverges even though $lim_{n\to\infty}{(p_n - p_{n - 1}) = 0}$ 
 
 
