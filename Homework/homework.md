@@ -38,8 +38,9 @@
     * DDL:10.15 周一上课交
 * [ ] 作业 Oct10
     * DDL:10.15
-* [ ] 看教材
-    * ***numerical analysis*** M00, M01  
+* [ ] 看教材 **Numerical Analysis** 
+    * [x] M00 
+    * [ ] M01  
 
 ## 人工智能概论
 
