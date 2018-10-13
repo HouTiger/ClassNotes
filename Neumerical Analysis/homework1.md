@@ -10,9 +10,15 @@
 ## 2.
 * The fuction defined by $f(x) = sin(\pi x)$ has zeros at every integer. Show that when $-1 < a < 0$ and $2 < b < 3$，the Bisection method converges to
 * a. $0$. if $a + b < 2$
- 	b. $2$. if $a + b > 2$
-	c. $1$. if $a + b = 2$ 
-* answers are **a b c** 
+	$f(a) < 0, f(b) > 0$  
+	Because $\frac{1}{2} < \frac {a + b}{2} < 1$, so $f(\frac {a + b}{2}) > 0$, the root between $(a, \frac{a + b}{2})$ is 0.
+
+
+*	b. $2$. if $a + b > 2$
+	$1 < \frac{a + b}{2} < \frac {3}{2}$, so $f(\frac {a + b}{2}) < 0$, the root between $(\frac{a + b}{2}, b)$ is 2.
+*	c. $1$. if $a + b = 2$ 
+	if $a + b = 2$, then $s = \frac {a + b}{2} = 1$, $f(s) = f(1) = sin \pi  = 0$
+
 
 
 ## 3. 
@@ -28,7 +34,13 @@
 
 ## 4. 
 * Suppose that $g$ is continuously differentiable on some interval $(c, d)$ that contains the fixed point $p$ of $g$. Show that if $|g^\prime(p)| < 1$, then there exists a $\delta > 0$ such that if $|p_0 - p| \le \delta$, then the fixed-point iteration converge
-
+* **Proof**
+	Let $S = |g ^ {\prime}(p)|$. 
+	Because $g$ is continuously differentiable on $(c, d)$, so $g ^ {\prime}$ is continuous on $(c, d)$.  
+	And there is a $\delta > 0$, $|g ^ {\prime}| < \frac{S + 1}{2}$ within interval $(p - \delta, p + \delta)$.
+	Let $p_i$ denote the iteration in step $i$, then there exits $c_i$ between $p_i$ and $p$, such that $p_{i + 1} - p = g ^ {\prime}(c_i)(p_i - p)$
+	If we pick $p_0$ within $(p - \delta, p + \delta)$, then $\frac{|p_{i + 1} - p|}{|p_i - p|} = |g ^ {\prime}(c_i)| < \frac {S + 1}{2} < 1$
+	So $\lim_{i \to \infty} p_i = p$,  
 
 
 ## 5.
