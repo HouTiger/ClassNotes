@@ -40,7 +40,7 @@
 	And there is a $\delta > 0$, $|g ^ {\prime}| < \frac{S + 1}{2}$ within interval $(p - \delta, p + \delta)$.
 	Let $p_i$ denote the iteration in step $i$, then there exits $c_i$ between $p_i$ and $p$, such that $p_{i + 1} - p = g ^ {\prime}(c_i)(p_i - p)$
 	If we pick $p_0$ within $(p - \delta, p + \delta)$, then $\frac{|p_{i + 1} - p|}{|p_i - p|} = |g ^ {\prime}(c_i)| < \frac {S + 1}{2} < 1$
-	So $\lim_{i \to \infty} p_i = p$,  
+	So $\lim_{i \to \infty} p_i = p$, the FPI converges. 
 
 
 ## 5.
@@ -49,3 +49,9 @@
 
 ## 6.
 * Suppose that ${\{p_n\}}$ is superlinearly convergent to p. Show that $\lim_{n\to \infty}\frac {|p_{n + 1} - p_n|}{|p_n - p|} = 1$
+* **Proof**
+	$\cfrac {|p_{n + 1} - p_n|}{|p_n - p|} = \cfrac{|(p_{n + 1} - p) - (p_n - p)|} {|p_n - p|}$
+	$|1 - \cfrac {|p_{n + 1} - p|}{|p_n - p|}| = \cfrac{||p_{n + 1} - p| - |p_n - p||} {|p_n - p|}\le \cfrac{|(p_{n + 1} - p) - (p_n - p)|} {|p_n - p|} \le \cfrac{|p_{n + 1} - p| + |p_n - p|} {|p_n - p|} = 1 + \cfrac{|p_{n + 1} - p|} {|p_n - p|}$
+	Apply $n\to \infty$ to the inequality, we get $1 \le \lim_{n\to \infty}\cfrac{|(p_{n + 1} - p) - (p_n - p)|} {|p_n - p|} \le 1$, 
+	for that superlinear convergence means $\lim_{n \to \infty} \cfrac{|p_{n + 1} - p|}{|p_n - p|} = 0 $.
+	so $\lim_{n\to \infty}\cfrac{|p_{n + 1} - p_n|} {|p_n - p|} = 1$
