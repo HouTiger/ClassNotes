@@ -74,7 +74,7 @@
 * Lab
     * [x] Datalab
         * DDL: 09.29
-    * [ ] Bomblab
+    * [x] Bomblab
         * DDL: 10.21 11:55 pm
     
 * 书面作业
