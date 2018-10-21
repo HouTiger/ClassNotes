@@ -53,7 +53,7 @@
         * DDL: 10.15 周一上课交
     * [x] 作业 Oct10
         * DDL: 10.15
-    * [ ] 作业 Oct15
+    * [x] 作业 Oct15
         * DDL: 10.22
 * 看教材 **Numerical Analysis** 
     * [x] M00 
