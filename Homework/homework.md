@@ -15,6 +15,11 @@
         * [x] lost cow
         * [x] difficult lost cow
         * DDL: 10.22 08:00 
+* 作业四
+    * [ ] 线段树二
+        * [ ] Mayor's Posters
+        * [ ] k-th number
+        * [ ] Picture
     
 
 ## 信号与系统
@@ -49,12 +54,14 @@
 * 期中考试
     * 11.12  
 * 作业
-    * [x] 作业 Oct8
+    * [x] Oct8
         * DDL: 10.15 周一上课交
-    * [x] 作业 Oct10
+    * [x] Oct10
         * DDL: 10.15
-    * [x] 作业 Oct15
+    * [x] Oct15
         * DDL: 10.22
+    * [ ] Oct22
+        * DDL: 10.29
 * 看教材 **Numerical Analysis** 
     * [x] M00 
     * [x] M01  
@@ -75,10 +82,12 @@
 
 ## 计算机系统导论
 * Lab
-    * [x] Datalab
+    * [x] Data Lab
         * DDL: 09.29
-    * [x] Bomblab
+    * [x] Bomb Lab
         * DDL: 10.21 11:55 pm
+    * [ ] Attack Lab
+        * DDL: 10.28 11.55 pm
     
 * 书面作业
     * [x] 2.89 2.91 2.93
