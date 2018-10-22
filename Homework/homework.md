@@ -1,25 +1,22 @@
 # Homework
 
 ##  数算实习 
-* 作业一
-    * [x] 并查集
+* [x] 作业一 并查集
     * DDL: 10.15
-* 作业二
-    * [x] 树状数组
-        * [x] apple tree
-        * [x] mobile phone  
-        * [x] 不好做的最长上升序列
-        * DDL: 10.15 08:00
-* 作业三
-    * [x] 线段树
-        * [x] lost cow
-        * [x] difficult lost cow
-        * DDL: 10.22 08:00 
-* 作业四
-    * [ ] 线段树二
-        * [ ] Mayor's Posters
-        * [ ] k-th number
-        * [ ] Picture
+* [x] 作业二 树状数组
+    * [x] apple tree
+    * [x] mobile phone  
+    * [x] 不好做的最长上升序列
+    * DDL: 10.15 08:00
+* [x] 作业三 线段树
+    * [x] lost cow
+    * [x] difficult lost cow
+    * DDL: 10.22 08:00 
+* [ ] 作业四 线段树
+    * [ ] Mayor's Posters
+    * [ ] k-th number
+    * [ ] Picture
+    * DDL: 10.29 08:00
     
 
 ## 信号与系统
