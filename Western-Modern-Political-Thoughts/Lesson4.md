@@ -26,7 +26,7 @@
 	霍布斯希望将这种方法运用到人类社会上来  
 * 思想背景  
 	* 英国内战    
-		* 主权 
+		* 主权   
 			英国内战的原因是没有统一的**主权**
 		* 自然状态  
 		* 原因  
@@ -57,3 +57,58 @@
 	* 第二卷 论国家
 	* 第三卷、第四卷 论宗教
 
+## 第一卷 论人
+* 核心论敌：**目的论（teleology）**，即相信人的一切行为都有一个终极目标  
+	亚里士多德认为在城邦中做一个公民就是终极目标  
+	> 人天生就是政治的动物——by 亚里士多德
+
+	只有在城邦中人才可以追求美德，善好  
+	霍布斯眼中人的本性：*restless desire of power after power* , **no end**
+* 人的自然本性 **（human nature）** Chaper: 1-9  
+	> 要注意，霍布斯是机械唯物主义者
+
+	* 认知  
+		* 受到英国经验主义传统影响、属于功利主义哲学  
+		* sense 感知
+			* 退化后化为imaginaion 想象
+				* 久而久之变为image 心理图像 = ideas 观念
+		* image的联结
+			* 无序的
+			* 有序的  
+				* 从结果到原因的——experience 经验  
+					但因果归纳是或然的，不一定准确
+				* reason 理性  
+					必然正确的
+	* 激情 passion（欲望）  
+		* 人的生命是运动
+			* 生命运动  
+				本能操纵的
+			* 意愿运动 （endeavor 倾向）   
+				对外部作用力的反作用力  
+				* 欲望 desire
+				* 厌恶 aversion  
+		* 善恶的主观性 
+			* good = desire
+			* evil = aversion  
+
+			亚里士多德则认为善恶是绝对的，并且他认为desire of power最终都指向good，而且good有高下之分  
+			但在霍布斯这里desire of power本身就是目的
+			* 一切知识都从属于欲望，只是手段  
+			* 显然托尔斯泰是亚里士多德主义者  
+				> “幸福的家庭总是相似的，不幸的家庭则各有不同”——《安娜·卡列尼娜》
+
+				亚里士多德认为幸福有客观标准，所以幸福的家庭基本相似  
+				但在霍布斯看来，good并没有统一的标准
+* 自然状态   
+	**natural condition**(人的天性) / **state of nature**(最原始状态)  
+	与**natural condition**相对的是**civil condition**  
+	natural与civil的分界线是有没有**public power / sovereignty**
+	* 自然倾向  
+		> *a perpetual and restless desire of power after power* 
+
+		> 霍布斯认为，人的运动并无固定目标，一旦运动停止那么就意味着人的死亡，用以讽刺经院哲学家
+
+		在霍布斯这里人和power是等同的
+	* 冲突与战争  
+		人在自然上的**power**是差不多的，也就是自然状态下的天生平等  
+		但可悲的是没人承认，都以为自己比别人强，这就是虚荣 **(Vanity)**
