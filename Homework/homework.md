@@ -83,7 +83,7 @@
         * DDL: 09.29
     * [x] Bomb Lab
         * DDL: 10.21 11:55 pm
-    * [ ] Attack Lab
+    * [x] Attack Lab
         * DDL: 10.28 11.55 pm
     
 * 书面作业
