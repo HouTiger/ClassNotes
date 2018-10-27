@@ -13,8 +13,8 @@
     * [x] difficult lost cow
     * DDL: 10.22 08:00 
 * [ ] 作业四 线段树
-    * [ ] Mayor's Posters
-    * [ ] k-th number
+    * [x] Mayor's Posters
+    * [x] k-th number
     * [ ] Picture
     * DDL: 10.29 08:00
     
