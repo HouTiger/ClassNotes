@@ -69,6 +69,7 @@
 * 看教材 **Numerical Analysis** 
     * [x] M00 
     * [x] M01  
+    * approximation P18
 
 ## 人工智能概论
 
