@@ -28,3 +28,5 @@
 			* 伯爵看上了费加罗的未婚妻，费加罗与伯爵作斗争  
 		* 有罪的母亲
 
+* Maria Callas
+	* The Greatest female High singer
