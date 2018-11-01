@@ -94,7 +94,7 @@
     * [x] Attack Lab
         * DDL: 10.28 11.55 pm  
     * [ ] Arch Lab
-        * Arch Lab A
+        * [x] Arch Lab A
             * DDL: 11.05 11:55 pm  
         * Arch Lab B
             * DDL: 11.07 11:55 pm  
