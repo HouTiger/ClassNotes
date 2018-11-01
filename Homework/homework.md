@@ -96,9 +96,9 @@
     * [ ] Arch Lab
         * [x] Arch Lab A
             * DDL: 11.05 11:55 pm  
-        * Arch Lab B
+        * [ ] Arch Lab B
             * DDL: 11.07 11:55 pm  
-        * Arch Lab C
+        * [ ] Arch Lab C
             * DDL: 11.12 11:55 pm
     
 * 书面作业
