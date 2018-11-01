@@ -92,7 +92,14 @@
     * [x] Bomb Lab
         * DDL: 10.21 11:55 pm
     * [x] Attack Lab
-        * DDL: 10.28 11.55 pm
+        * DDL: 10.28 11.55 pm  
+    * [ ] Arch Lab
+        * Arch Lab A
+            * DDL: 11.05 11:55 pm  
+        * Arch Lab B
+            * DDL: 11.07 11:55 pm  
+        * Arch Lab C
+            * DDL: 11.12 11:55 pm
     
 * 书面作业
     * [x] 2.89 2.91 2.93
