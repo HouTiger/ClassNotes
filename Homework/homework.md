@@ -18,10 +18,10 @@
     * [ ] Picture
     * DDL: 10.29 08:00
 * [ ] 作业五 Trie图
-    * [ ] 多模式串字符串匹配模版题
-    * [ ] Computer Virus on Planet Pandora
-    * [ ] 躲不开的病毒
-    * [ ] DNA Repair
+    * [x] 多模式串字符串匹配模版题
+    * [x] Computer Virus on Planet Pandora
+    * [x] 躲不开的病毒
+    * [x] DNA Repair
     * DDL: 11.05 12:00
 
 ## 信号与系统
@@ -112,7 +112,8 @@
         * DDL: 10.24 23:59
     * [x] 3.70 4.45
         * DDL: 10.31 23:59
-
+    * [ ] 4.47 4.56
+        * DDL: 11.07 23:59
 
 ## 刑法学
 * 期中考试
