@@ -27,6 +27,7 @@
     * [ ] Popular Cows
     * [ ] Going from u to v or from v to u?
     * [ ] Caocao's Bridges
+    * DDL: 11.19 07:00
 ## 信号与系统
 * [x] 作业一
     * DDL: 09.27
