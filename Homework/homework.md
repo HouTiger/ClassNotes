@@ -17,7 +17,7 @@
     * [x] k-th number
     * [ ] Picture
     * DDL: 10.29 08:00
-* [ ] 作业五 Trie图
+* [x] 作业五 Trie图
     * [x] 多模式串字符串匹配模版题
     * [x] Computer Virus on Planet Pandora
     * [x] 躲不开的病毒
@@ -105,12 +105,12 @@
         * DDL: 10.21 11:55 pm
     * [x] Attack Lab
         * DDL: 10.28 11.55 pm  
-    * [ ] Arch Lab
+    * [x] Arch Lab
         * [x] Arch Lab A
             * DDL: 11.05 11:55 pm  
         * [x] Arch Lab B
             * DDL: 11.07 11:55 pm  
-        * [ ] Arch Lab C
+        * [x] Arch Lab C
             * DDL: 11.12 11:55 pm
     
 * 书面作业
@@ -122,7 +122,7 @@
         * DDL: 10.24 23:59
     * [x] 3.70 4.45
         * DDL: 10.31 23:59
-    * [ ] 4.47 4.56
+    * [x] 4.47 4.56
         * DDL: 11.07 23:59
 
 ## 刑法学
