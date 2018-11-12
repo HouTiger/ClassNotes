@@ -55,11 +55,11 @@
 
 	|Callimaco|	新君主 |
 	| - | - | 
-	|Nicia| 	旧君主 | 
-	|Timoteo 	|宗教人士 | 
-	|Ligurio 	|马基雅维利自己  |
-	|Lucrecia	|女人/命运  |
-	
+	|Nicia		|旧君主| 
+	|Timoteo	|宗教人士| 
+	|Ligurio 	|马基雅维利自己|
+	|Lucrecia	|女人/命运|
+
 	虽然Ligurio更有谋略，但最终成功的还是Callimaco这种敢于行动的人。
 	> 只要搞清楚人性，知道每个人要什么，人就可以征服命运
 * 马基雅维利写的是人本来的样子，绝不是所谓“辛辣的讽刺”
