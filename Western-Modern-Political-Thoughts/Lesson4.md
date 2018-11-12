@@ -51,7 +51,8 @@
 	老当益壮尼西亚  
 	道德观应当建立在实然而非应然的基础之上  
 	> it appears to me more appropriate to follow up the real truth of the matter than the imagination of it; for many have pictured republics and principalities which in fact have never been known or seen, because how one lives is so far distant from how one ought to live, that he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation;
-* 政治隐喻  
+* 政治隐喻 
+ 
 	|Callimaco|	新君主 |
 	| - | - | 
 	|Nicia| 	旧君主 | 
