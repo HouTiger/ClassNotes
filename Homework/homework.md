@@ -32,6 +32,9 @@
     * [ ] Currency Exchange  
     * [ ] SPF  
     * DDL: 11.26 07:00
+* [ ] 作业八 网络流  
+    * [ ] ACM Computer Factory  
+    * DDL: 11.28 07:00  
 ## 信号与系统
 * [x] 作业一
     * DDL: 09.27
