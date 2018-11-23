@@ -123,7 +123,7 @@
             * DDL: 11.07 11:55 pm  
         * [x] Arch Lab C
             * DDL: 11.12 11:55 pm  
-    * [ ] Cache Lab
+    * [x] Cache Lab
         * DDL: 11.19 11:55 pm
     
 * 书面作业
