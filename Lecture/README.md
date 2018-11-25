@@ -1,4 +1,4 @@
-## 给李铄小朋友的小班课
+## A Small Lecture for Li Shuo
 > Hoping this tutorial would be beneficial for her.  
 * L1.md     
     * 命令行指北  
