@@ -5,6 +5,8 @@
     * Git指北  
     * Markdown语法  
     * ~~网络优化~~
-* L2.md （施工中）  
+* L2.md
+    * c++常用库和库函数  
+    * α-β剪枝  
 * Appendix I.md  
     * VsCode 使用指北  
