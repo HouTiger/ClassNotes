@@ -5,7 +5,8 @@
     * Git指北  
     * Markdown语法  
     * ~~网络优化~~
-* L2.md
+* L2.md  
+    * bit & byte & address & memory
     * c++常用库和库函数  
     * α-β剪枝  
 * Appendix I.md  
