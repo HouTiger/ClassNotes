@@ -38,7 +38,7 @@
 * [ ] 作业九 网络流  
     * [ ] Optimal Milking  
     * [ ] Perfect Stall  
-    * DDL： 12.3  
+    * DDL: 12.3  
 ## 信号与系统
 * [x] 作业一
     * DDL: 09.27
