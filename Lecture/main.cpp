@@ -3,9 +3,14 @@
 using namespace std;
 int main()
 {
-    int a, b;
-    a + b;
-    int *a1;
-
-    return 0;
+    int o1;
+    switch (o1)
+    {
+    case 1:
+        o1 = 8;
+        break;
+    case 2:
+        o1 = 9;
+        break;
+    }
 }
