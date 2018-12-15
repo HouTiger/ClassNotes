@@ -9,5 +9,12 @@
     * bit & byte & address & memory
     * c++常用库和库函数  
     * α-β剪枝  
+* L3.md
+    * 文件
+    * 编译工具链 
+    * 指针
+    * 编程的一些trick
+    
 * Appendix I.md  
     * VsCode 使用指北  
+
