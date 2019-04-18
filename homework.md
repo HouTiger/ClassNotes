@@ -9,8 +9,9 @@
     * 3.11
 * [x] openjudge
     * 3.17  
-* [ ] openjudge soduku4
-* [ ] 黑白棋
+* [ ] openjudge   
+    soduku4
+* [x] 黑白棋
     * ddl：3.31
     
     
@@ -40,5 +41,5 @@
 
 
 ## 坛经  
-* [ ] 报告
+* [x] 报告
     * ddl：3.31
